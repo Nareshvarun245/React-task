@@ -1,0 +1,24 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    background-color: var(--main-bg-color);
+  color: var(--text-color);
+  }
+  .sidebar a {
+    color: var(--text-color);
+    font-size: 32px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+
+  
+
+  
